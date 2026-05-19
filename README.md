@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28010280/README.md)
 # lyrics-translation
 
 多语种歌词中文化翻译技能包。基于 Agent Skills 规范，为 AI 提供系统的歌词翻译指导。
